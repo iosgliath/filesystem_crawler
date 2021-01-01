@@ -13,9 +13,9 @@ Takes as input:
         nano lookup.txt
       Create your regexes <br/>
       
-        (?i).txt<br/>
-        (?i)db<br/>
-        (?i)coffee<br/>
+        (?i).txt
+        (?i)db
+        (?i)coffee
 
       Then run <br/>
 
