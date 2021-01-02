@@ -45,9 +45,9 @@ Takes as input:
             .mod 	  2020-12-31 23:50:02.34590733 +0100 CET
             .type	  .txt
         [+] Hit
-            .name 	pwd.txt
+            .name 	coffee.txt
             .perm 	-rw-r--r--
-            .@	    /****/****/**coffee.csv
+            .@	    /****/****/**coffee.txt
             .for 	  (?i).txt
             .size	  7
             .mod 	  2021-01-01 02:27:56.19775488 +0100 CET
